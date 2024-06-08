@@ -54,7 +54,6 @@ rich-argparse==1.4.0
 scipy==1.13.0
 six==1.16.0
 stack-data==0.6.3
-stonefish-license-manager==0.4.20
 sympy==1.12
 tornado==6.4
 traitlets==5.14.2

@@ -61,4 +61,4 @@ url-normalize==1.4.3
 urllib3==2.2.1
 wcwidth==0.2.13
 winregistry==1.1.1
-x21==0.4.33
+x21

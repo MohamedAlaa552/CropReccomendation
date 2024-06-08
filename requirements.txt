@@ -1,4 +1,6 @@
 asttokens==2.4.1
+flask
+gunicorn
 attrs==23.2.0
 cattrs==23.2.3
 certifi==2024.2.2

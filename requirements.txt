@@ -45,7 +45,6 @@ pycparser==2.22
 Pygments==2.17.2
 pyparsing==3.1.2
 python-dateutil==2.9.0.post0
-pywin32
 pyzmq==25.1.2
 quadpy==0.17.17
 requests==2.31.0
